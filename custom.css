@@ -1,0 +1,12 @@
+<style>
+
+    a.hover img {
+        display:none;
+    }
+    a.hover:hover img {
+        display:inline-block;
+        position:absolute;
+        z-index: 10;
+    }
+
+</style>
